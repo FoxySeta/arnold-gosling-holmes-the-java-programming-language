@@ -3,7 +3,7 @@
  * table of squares.
  */
 
-class Ex04 {
+public class Ex04 {
 
   public static void main(String[] args) {
     final int rows = 50;
